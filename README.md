@@ -8,11 +8,11 @@ To create a demo environment:
 - Login as wauser
 - Install git: 
 ```shell
-sudo yum install -y git
+sudo apt-get install -y git
 ```
 - Clone this repository
 ```shell
-git clone git@github.com:WAdev0/WADemo.git
+git clone git@github.com:rmns84/WADemo.git
 ```
 - Run setup.sh
 ```shell
